@@ -1,5 +1,5 @@
 # 💫 About Me:
-I like learning python
+I like learning c++
 
 
 # 💻 Tech Stack:
